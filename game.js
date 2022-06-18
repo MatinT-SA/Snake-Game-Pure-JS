@@ -14,7 +14,7 @@ function main(currentTime) {
         // playAgain.style.display = "block"
 
         if (confirm('GAME OVER! 🥶\nTry again by pressing OK.')) {
-            window.location = '/'
+            window.location = 'https://matint-sa.github.io/Snake-Game-Pure-JS/'
         }
         return
     }
